@@ -81,3 +81,8 @@ Editor/Analysis/ActionsRegistrationGenerator~/bin
 Editor/Analysis/ActionsRegistrationGenerator~/obj
 
 SourceGenerator/YarnSpinner.Unity.SourceCodeGenerator.deps.json*
+
+# Rider
+.idea/
+[Uu]serSettings/
+ProjectSettings/RiderScriptEditorPersistedState.asset
