@@ -191,6 +191,10 @@ namespace Yarn.Unity
         [SerializeField]
         internal bool autoAdvance = false;
         
+        public bool AutoAdvance => autoAdvance;
+
+        public void SetAutoAdvance(bool _value) => autoAdvance = _value;
+
         /// <summary>
         /// The current <see cref="LocalizedLine"/> that this line view is
         /// displaying.
